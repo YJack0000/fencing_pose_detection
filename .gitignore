@@ -1,2 +1,6 @@
 .DS_store
 *.mp4
+.ipynb_checkpoints
+node_modules
+
+*.png
